@@ -2,7 +2,13 @@
 
 Welcome to my first Data Science Portfolio.
 
-## 1. Electrical Grid Stability classification problem
+# Beginner Level
 
-## 2. Titanic Data Wrangling & Vizualization
+### 1. Electrical Grid Stability classification problem
+
+### 2. Titanic Data Wrangling & Vizualization
+
+# Intermediate Level
+
+### 1. Movie Lens recommendation system
 
